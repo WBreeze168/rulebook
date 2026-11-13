@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-11-13T16:15:34.404Z
-modified: 2026-11-13T16:18:06.888Z
+modified: 2026-11-13T16:22:14.548Z
 ---
 
-[[rulebook/Symbaroum/Symbaroum|Symbaroum]]
+[[00-介紹]]
