@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// 隱藏資料夾頁面的物件數量統計與自動文章列表（保留標籤頁的列表）
+[data-quartz-component="FolderPage"] .page-listing {
+  display: none;
+}
